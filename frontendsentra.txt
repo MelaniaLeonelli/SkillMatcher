@@ -1,0 +1,5 @@
+cd C:\Users\mela\Desktop\emad\skillmatcher_app
+
+
+cd C:\Users\mela\Desktop\emad\skillmatcher_app
+flutter run -d chrome
